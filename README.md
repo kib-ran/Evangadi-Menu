@@ -2,10 +2,6 @@
 
 This project is a simple React application built to practice component-based architecture and prop usage. It displays a menu inspired by Ethiopian cuisine, using reusable components and external data to render each dish dynamically.
 
-## 🌍 Why "Evangadi"?
-
-**Evangadi** represents a traditional Ethiopian gathering — a place of community, storytelling, and shared meals. This menu app is a tribute to that spirit, blending cultural meaning with modern web development.
-
 ## 🛠️ Tech Stack
 
 - ⚛️ React (Functional Components)
@@ -35,5 +31,6 @@ Each menu item includes:
 - Image
 - Price
 🧠 Author
-Built by Kibran, a fourth-year Marketing Management student at Unity University and a passionate full-stack web developer in training. This project is part of a hands-on journey to master React and build culturally meaningful applications.
+Built by Kibran, a fourth-year Marketing Management student at Unity University and a passionate full-stack web developer in training.
+ This project is part of a hands-on journey to master React and build culturally meaningful applications.
 
