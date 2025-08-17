@@ -17,8 +17,6 @@ This project is a simple React application built to practice component-based arc
 - Debugging rendering issues and refining component logic
 - Documenting the project for clarity and accessibility
 
-## 📁 Project Structure
-src/ ├── components/ │   └── MenuItem.jsx ├── data/ │   └── menuData.js ├── assets/ │   └── images/ ├── App.jsx └── index.css
 
 ## 🚀 How to Run Locally
 
