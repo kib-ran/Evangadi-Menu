@@ -30,5 +30,5 @@ Each menu item includes:
 - Price
 🧠 Author
 Built by Kibran, a fourth-year Marketing Management student at Unity University and a passionate full-stack web developer in training.
- This project is part of a hands-on journey to master React and build culturally meaningful applications.
+This project is part of a hands-on journey to master React and build culturally meaningful applications.
 
